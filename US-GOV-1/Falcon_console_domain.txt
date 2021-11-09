@@ -1,0 +1,2 @@
+falcon.laggar.gcw.crowdstrike.com
+laggar-falconui01-g-245478519.us-gov-west-1.elb.amazonaws.com
