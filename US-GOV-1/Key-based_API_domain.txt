@@ -1,0 +1,4 @@
+falconapi.laggar.gcw.crowdstrike.com
+falconapi-laggar01-g-1129225957.us-gov-west-1.elb.amazonaws.com
+firehose.laggar.gcw.crowdstrike.com
+falconhose-laggar01-g-720386815.us-gov-west-1.elb.amazonaws.com

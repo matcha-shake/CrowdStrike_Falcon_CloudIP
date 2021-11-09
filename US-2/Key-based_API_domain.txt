@@ -1,0 +1,2 @@
+falconapi.us-2.crowdstrike.com
+firehose.us-2.crowdstrike.com
