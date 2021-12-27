@@ -1,1 +1,2 @@
 ffc.eu-1.crowdstrike.com
+ffcng.eu-1.crowdstrike.com
